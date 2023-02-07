@@ -1,0 +1,46 @@
+/* Actividad 4 */
+
+
+/*Inicio*/
+
+h1 {
+padding: 40px 0px 0px 0px;}
+
+
+.fila {
+	background-color:lightblue;
+}
+
+li {
+	color:white;
+}
+
+#bloque8{
+	
+	margin: 40px;
+}
+
+#bloque9{
+	
+	margin: 40px;
+}
+
+/* Menu */
+
+#table2 {
+  background-color: gray;
+  color: black;
+  border: 5px solid #blue;
+}
+
+td {
+	color: white;
+}
+
+
+/* Reserva */
+
+label {
+  color: blue;
+ 
+}
